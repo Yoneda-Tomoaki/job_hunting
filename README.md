@@ -5,7 +5,7 @@
 <img width="1440" alt="スクリーンショット 2025-01-06 12 39 41" src="https://github.com/user-attachments/assets/ef8a613c-d152-40c7-9db5-aca930a30f25" />
 
 ### 使用した言語、フレームワーク、ライブラリ
-プログラミング言語：Python、CSS
+プログラミング言語：JabaScript、CSS
 
 フレームワーク：Tailwindcss
 
